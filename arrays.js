@@ -6,3 +6,4 @@ function destructivelyAddElementToBeginningOfArray(array, element) { array.unshi
   return array
 }
  
+function accessElementInArray(array, array[]) {
