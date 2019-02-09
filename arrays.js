@@ -7,5 +7,5 @@ function destructivelyAddElementToBeginningOfArray(array, element) { array.unshi
 }
  
 function addElementToEndOfArray(array, element) {return [...array, element]}
-function 
+function destructivelyAddElementToEndOfArray(array, element) {return 
 function accessElementInArray(array, index) { return array[index]}
